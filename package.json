@@ -14,7 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/yousleepwhen/react-ga-method-decorator.git"
   },
-  "author": "",
+  "keywords": ["react", "ga", "decorator", "react-ga"],
+  "author": "yousleepwhen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yousleepwhen/react-ga-method-decorator/issues"
