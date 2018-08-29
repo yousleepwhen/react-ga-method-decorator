@@ -1,0 +1,14 @@
+.gitignore
+.idea
+/test
+.DS_Store
+/node_modules
+.npm-*
+/dist/index.html
+*.log
+/coverage
+/.nyc_output
+.babelrc
+tsconfig.json
+tslint.json
+yarn.lock

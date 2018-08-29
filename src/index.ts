@@ -1,0 +1,1 @@
+export { gaEvent } from "./eventTrackingDecorator";
